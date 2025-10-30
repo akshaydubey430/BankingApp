@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <br />
     <a href="https://youtu.be/PuOVqP_cjkE?feature=shared" target="_blank">
@@ -1627,3 +1628,6 @@ Enjoyed creating this project? Dive deeper into our PRO courses for a richer lea
 <a href="https://www.jsmastery.pro/ultimate-next-course" target="_blank">
 <img src="https://i.ibb.co/804sPK6/Image-720.png" alt="Project Banner">
 </a>
+=======
+# BankingApp
+>>>>>>> 02d964ae5a224e676b2542e8469afd55395fb546
